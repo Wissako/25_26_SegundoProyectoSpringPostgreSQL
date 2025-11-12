@@ -1,7 +1,7 @@
-package com.example.SegundoProyectoSpringMySQL.controllers;
+package com.example.SegundoProyectoSpringPostgreSQL.controllers;
 
-import com.example.SegundoProyectoSpringMySQL.entities.Categoria;
-import com.example.SegundoProyectoSpringMySQL.services.CategoriaService;
+import com.example.SegundoProyectoSpringPostgreSQL.entities.Categoria;
+import com.example.SegundoProyectoSpringPostgreSQL.services.CategoriaService;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 

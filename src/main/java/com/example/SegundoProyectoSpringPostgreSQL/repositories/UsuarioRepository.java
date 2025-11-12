@@ -1,6 +1,6 @@
-package com.example.SegundoProyectoSpringMySQL.repositories;
+package com.example.SegundoProyectoSpringPostgreSQL.repositories;
 
-import com.example.SegundoProyectoSpringMySQL.entities.Usuario;
+import com.example.SegundoProyectoSpringPostgreSQL.entities.Usuario;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

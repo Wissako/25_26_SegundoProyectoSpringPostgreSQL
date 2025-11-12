@@ -1,4 +1,4 @@
-package com.example.SegundoProyectoSpringMySQL.errors;
+package com.example.SegundoProyectoSpringPostgreSQL.errors;
 
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.MethodArgumentNotValidException;

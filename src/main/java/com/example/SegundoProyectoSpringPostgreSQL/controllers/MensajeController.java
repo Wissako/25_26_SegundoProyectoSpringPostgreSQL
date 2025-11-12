@@ -1,9 +1,9 @@
-package com.example.SegundoProyectoSpringMySQL.controllers;
+package com.example.SegundoProyectoSpringPostgreSQL.controllers;
 
-import com.example.SegundoProyectoSpringMySQL.DTO.MensajeDTO;
-import com.example.SegundoProyectoSpringMySQL.DTO.MensajeRequest;
-import com.example.SegundoProyectoSpringMySQL.entities.Mensaje;
-import com.example.SegundoProyectoSpringMySQL.services.MensajeService;
+import com.example.SegundoProyectoSpringPostgreSQL.DTO.MensajeDTO;
+import com.example.SegundoProyectoSpringPostgreSQL.DTO.MensajeRequest;
+import com.example.SegundoProyectoSpringPostgreSQL.entities.Mensaje;
+import com.example.SegundoProyectoSpringPostgreSQL.services.MensajeService;
 import jakarta.validation.Valid;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;

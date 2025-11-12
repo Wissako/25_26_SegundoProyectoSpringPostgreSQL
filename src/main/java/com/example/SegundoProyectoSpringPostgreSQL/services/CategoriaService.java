@@ -1,9 +1,9 @@
-package com.example.SegundoProyectoSpringMySQL.services;
+package com.example.SegundoProyectoSpringPostgreSQL.services;
 
-import com.example.SegundoProyectoSpringMySQL.entities.Categoria;
-import com.example.SegundoProyectoSpringMySQL.entities.Mensaje;
-import com.example.SegundoProyectoSpringMySQL.repositories.CategoriaRepository;
-import com.example.SegundoProyectoSpringMySQL.repositories.MensajeRepository;
+import com.example.SegundoProyectoSpringPostgreSQL.entities.Categoria;
+import com.example.SegundoProyectoSpringPostgreSQL.entities.Mensaje;
+import com.example.SegundoProyectoSpringPostgreSQL.repositories.CategoriaRepository;
+import com.example.SegundoProyectoSpringPostgreSQL.repositories.MensajeRepository;
 import org.springframework.stereotype.Service;
 
 import java.util.List;

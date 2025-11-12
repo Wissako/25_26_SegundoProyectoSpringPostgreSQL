@@ -1,4 +1,4 @@
-package com.example.SegundoProyectoSpringMySQL.services;
+package com.example.SegundoProyectoSpringPostgreSQL.services;
 
 import io.jsonwebtoken.Jwts;
 import io.jsonwebtoken.SignatureAlgorithm;

@@ -1,6 +1,6 @@
-package com.example.SegundoProyectoSpringMySQL.repositories;
+package com.example.SegundoProyectoSpringPostgreSQL.repositories;
 
-import com.example.SegundoProyectoSpringMySQL.entities.Categoria;
+import com.example.SegundoProyectoSpringPostgreSQL.entities.Categoria;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

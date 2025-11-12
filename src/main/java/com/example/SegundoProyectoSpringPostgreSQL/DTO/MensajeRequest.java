@@ -1,8 +1,7 @@
-package com.example.SegundoProyectoSpringMySQL.DTO;
+package com.example.SegundoProyectoSpringPostgreSQL.DTO;
 import jakarta.validation.constraints.NotBlank;
 import jakarta.validation.constraints.NotNull;
 import jakarta.validation.constraints.Size;
-import lombok.*;
 
 //@Data
 //@AllArgsConstructor
@@ -30,5 +29,3 @@ public record MensajeRequest(
     Long categoria_id
 )
 {}
-
-

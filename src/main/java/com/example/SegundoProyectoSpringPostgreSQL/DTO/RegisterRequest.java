@@ -1,4 +1,4 @@
-package com.example.SegundoProyectoSpringMySQL.DTO;
+package com.example.SegundoProyectoSpringPostgreSQL.DTO;
 
 import jakarta.validation.constraints.Email;
 import jakarta.validation.constraints.NotBlank;

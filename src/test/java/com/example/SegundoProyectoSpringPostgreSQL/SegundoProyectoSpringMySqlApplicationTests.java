@@ -1,4 +1,4 @@
-package com.example.SegundoProyectoSpringMySQL;
+package com.example.SegundoProyectoSpringPostgreSQL;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

@@ -1,10 +1,10 @@
-package com.example.SegundoProyectoSpringMySQL.controllers;
+package com.example.SegundoProyectoSpringPostgreSQL.controllers;
 
-import com.example.SegundoProyectoSpringMySQL.DTO.LoginRequest;
-import com.example.SegundoProyectoSpringMySQL.DTO.RegisterRequest;
-import com.example.SegundoProyectoSpringMySQL.entities.Usuario;
-import com.example.SegundoProyectoSpringMySQL.repositories.UsuarioRepository;
-import com.example.SegundoProyectoSpringMySQL.services.JwtService;
+import com.example.SegundoProyectoSpringPostgreSQL.DTO.LoginRequest;
+import com.example.SegundoProyectoSpringPostgreSQL.DTO.RegisterRequest;
+import com.example.SegundoProyectoSpringPostgreSQL.entities.Usuario;
+import com.example.SegundoProyectoSpringPostgreSQL.repositories.UsuarioRepository;
+import com.example.SegundoProyectoSpringPostgreSQL.services.JwtService;
 import jakarta.validation.Valid;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.HttpStatus;

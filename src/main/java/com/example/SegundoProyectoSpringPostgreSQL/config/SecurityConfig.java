@@ -1,8 +1,7 @@
-package com.example.SegundoProyectoSpringMySQL.config;
+package com.example.SegundoProyectoSpringPostgreSQL.config;
 
-import com.example.SegundoProyectoSpringMySQL.services.JwtService;
+import com.example.SegundoProyectoSpringPostgreSQL.services.JwtService;
 import lombok.RequiredArgsConstructor;
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.security.authentication.AuthenticationManager;

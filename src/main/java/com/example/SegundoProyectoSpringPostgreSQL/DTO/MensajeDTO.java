@@ -1,4 +1,4 @@
-package com.example.SegundoProyectoSpringMySQL.DTO;
+package com.example.SegundoProyectoSpringPostgreSQL.DTO;
 
 import lombok.*;
 

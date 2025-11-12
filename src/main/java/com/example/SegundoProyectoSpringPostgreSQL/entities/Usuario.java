@@ -1,4 +1,4 @@
-package com.example.SegundoProyectoSpringMySQL.entities;
+package com.example.SegundoProyectoSpringPostgreSQL.entities;
 
 import jakarta.persistence.*;
 import jakarta.validation.constraints.Email;
