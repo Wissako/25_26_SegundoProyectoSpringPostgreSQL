@@ -1,5 +1,5 @@
 # Imagen base con Java 21
-FROM openjdk:21-jdk-slim
+FROM openjdk:21-jdk-slim-bullseye
 
 # Directorio de trabajo dentro del contenedor
 WORKDIR /app
